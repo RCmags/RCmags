@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=RCmags&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[[![Github stats](https://github-readme-stats.vercel.app/api?username=RCmags&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-streak-stats.herokuapp.com/?user=RCmags)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RCmags&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
