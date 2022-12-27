@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+For articles relevant to my repos, see my posts on [RCgroups](https://www.rcgroups.com/forums/member.php?u=189488)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RCmags)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RCmags)](https://github.com/anuraghazra/github-readme-stats)
