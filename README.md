@@ -13,7 +13,7 @@
 
 - :heavy_exclamation_mark: Be sure to check out my [RCgroups](https://www.rcgroups.com/forums/member.php?u=189488) account! There's lots of good information I've posted there.
 
-- 💬 Ask me about anything that's in my repos or blog. I especially like model aircraft and unusual vehicles! :airplane: :helicopter: :moyai: 
+- 💬 Ask me about anything that's in my repos or blog. I especially like model aircraft and unusual vehicles! :airplane: :helicopter: 
 
 - 📄 Check out my super-awesome [resume](https://cdn2.careeraddict.com/uploads/article/53133/13._20Simplicity_20is_20key.jpeg).
 
