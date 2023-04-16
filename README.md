@@ -24,10 +24,24 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/xxxmags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xxxmags" height="30" width="40" /></a>
+
+<a href="https://www.rcgroups.com/forums/member.php?u=189488">
+<img align="center" src="https://github.com/RCmags/rcmags.github.io/blob/main/assets/icons/rcgroups.png" height="30" width="30" />
+</a>
+
+<a href="mailto:memoryofatrufestival@gmail.com">
+<img align="center" src="https://github.com/RCmags/rcmags.github.io/blob/main/assets/icons/gmail.svg" height="30" width="30" />
+</a>
+
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+
+<a href="https://www.solidworks.com/">
+<img src="https://icon-library.com/images/solidworks-icon/solidworks-icon-25.jpg" height="40" width="40" />
+</a>
 
 <a href="https://www.latex-project.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
