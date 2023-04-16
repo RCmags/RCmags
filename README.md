@@ -23,9 +23,11 @@
 
 - ⚡ Fun fact **I once glued my eyelid with superglue. No bueno yo D:**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/xxxmags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xxxmags" height="30" width="40" /></a>
+## Connect with me:
+<div>
+<a href="https://www.youtube.com/c/xxxmags" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xxxmags" height="30" width="40" />
+</a>
 
 <a href="https://www.rcgroups.com/forums/member.php?u=189488">
 <img align="center" src="https://github.com/RCmags/rcmags.github.io/blob/main/assets/icons/rcgroups.png" height="30" width="30" />
@@ -33,41 +35,48 @@
 
 <a href="mailto:memoryofatrufestival@gmail.com">
 <img align="center" src="https://github.com/RCmags/rcmags.github.io/blob/main/assets/icons/gmail.svg" height="30" width="30" />
-</a>
-
-</p>
+</div>
 
 
 ## Languages and Tools
 <p align="left"> 
 
+### Engineering:  
+<a href="https://www.arduino.cc/">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+</a>
+  
 <a href="https://www.solidworks.com/">
 <img src="https://icon-library.com/images/solidworks-icon/solidworks-icon-25.jpg" height="40" width="40" />
 </a>
-
+  
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+</a> 
+  
+<a href="https://jupyter.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+</a>  
+  
+  
+### Markdown:
 <a href="https://www.latex-project.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
 </a>
   
-<a href="https://www.lua.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" height="40"/>
-</a>
+<a href="https://www.w3.org/html/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a> 
   
-<a href="https://jupyter.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
-</a>
+<a href="https://www.w3schools.com/css/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>   
   
+  
+### Compiled languages:
 <a href="https://julialang.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" width="40" height="40"/>
 </a>
-  
-<a href="https://www.arduino.cc/">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a> 
 
 <a href="https://www.cprogramming.com/"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -76,42 +85,48 @@
 <a href="https://www.w3schools.com/cpp/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a> 
-
-<a href="https://www.w3schools.com/css/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a> 
-
-<a href="https://git-scm.com/">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a> 
-
-<a href="https://www.w3.org/html/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-
-<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
-</a> 
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a> 
-
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-</a> 
-
+  
+  
+### Interpreted languages:
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a> 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a> 
+
+<a href="https://www.lua.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" height="40"/>
 </a>
+  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>   
+  
+  
+### Frameworks:
+<a href="https://getbootstrap.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</a> 
+
+<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
+</a> 
+
+  
+### Other
+<a href="https://git-scm.com/">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a> 
+  
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a> 
+
+
+
+
 
 </p>
 
