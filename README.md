@@ -3,7 +3,7 @@
 <img src="banner.jpg">
 </p>
 
-<h3 align="center">Some guy that studied mechanical engineering and fiddles around with code</h3>
+<h3 align="center">A mechanical engineer and fiddles around with code</h3>
 
 - 🔭 I’m currently working on flight controllers for rc aircraft, simple web apps, and my blog.
 
