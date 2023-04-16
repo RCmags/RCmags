@@ -1,27 +1,28 @@
 <h1 align="center">👋 Hi, I'm Mags 👋</h1>
-<h3 align="center">Some guy that studied M.E. and fiddles around with code</h3>
-
 <p align="center">
 <img width="80%" src="https://github.com/RCmags/rcmags.github.io/blob/main/img/website_banner.jpg">
 </p>
-  
+
+<h3 align="center">Some guy that studied mechanical engineering and fiddles around with code</h3>
+
 - 🔭 I’m currently working on flight controllers for rc aircraft, simple web apps, and my blog.
 
-- 🌱 I’m currently learning **how to be an adult.**
+- 👨‍💻 Most of my projects are available on my [github profile](https://github.com/RCmags).
 
-- 👯 I’m looking to collaborate on any project really. I need a job. 
+- 📝 I ocassionally write articles on my [blog](rcmags.github.io).
 
-- 👨‍💻 All of my projects are available on my [github profile](https://github.com/RCmags)
+- :heavy_exclamation_mark: Be sure to check out my [RCgroups](https://www.rcgroups.com/forums/member.php?u=189488) account! There's lots of good information I've posted there.
 
-- 📝 I regularly write articles on my [blog](rcmags.github.io)
+- 💬 Ask me about anything that's in my repos or blog. I especially like model aircraft and unusual vehicles! :airplane: :helicopter: :moyai: 
 
-- 💬 Ask me about arduino, model aircraft, or Gmod. Basically anything that's in my repos or blog.  
+- 📄 Check out my super-awesome [resume](https://cdn2.careeraddict.com/uploads/article/53133/13._20Simplicity_20is_20key.jpeg).
 
-- 📄 Learn about my experiences my looking at my super-awesome [resume](https://cdn2.careeraddict.com/uploads/article/53133/13._20Simplicity_20is_20key.jpeg)
+- ⚡ Fun fact: I once glued my eyelashes with superglue.
 
-- ⚡ Fun fact: I once glued my eyelid with superglue.
-
+<!--
+- 🌱 I’m currently learning how to be an adult.
 - 🤝 I’m looking for help with life. Any suggestions?
+-->
 
 ## 📫 How to reach me:
 
