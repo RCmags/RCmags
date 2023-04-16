@@ -33,7 +33,7 @@ Contact me through __RCgroups__, __youtube__, or send me an __email__. You can a
 <img align="center" src="https://github.com/RCmags/rcmags.github.io/blob/main/assets/icons/rcgroups.png" height="30" width="30" />
 </a>
   
-<a href="https://www.youtube.com/c/xxxmags" target="blank">
+<a href="https://m.youtube.com/@XXXmags" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xxxmags" height="30" width="40" />
 </a>
 
