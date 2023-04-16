@@ -9,7 +9,7 @@
 
 - 👨‍💻 Most of my projects are available on my [github profile](https://github.com/RCmags).
 
-- 📝 I ocassionally write articles on my [blog](rcmags.github.io).
+- 📝 I ocassionally write articles on my [blog](https://rcmags.github.io/)
 
 - :heavy_exclamation_mark: Be sure to check out my [RCgroups](https://www.rcgroups.com/forums/member.php?u=189488) account! There's lots of good information I've posted there.
 
