@@ -1,29 +1,30 @@
 <h1 align="center">👋 Hi, I'm Mags 👋</h1>
 <h3 align="center">Some guy that studied M.E. and fiddles around with code</h3>
 
-<img src="https://github.com/RCmags/rcmags.github.io/blob/main/img/website_banner.jpg">
-
+<p align="center">
+<img width="80%" src="https://github.com/RCmags/rcmags.github.io/blob/main/img/website_banner.jpg">
+</p>
+  
 - 🔭 I’m currently working on **flight controllers for rc planes, simple web apps, and my blog.**
 
-- 🌱 I’m currently learning **how to be an adult. That means React and FreeCAD.**
+- 🌱 I’m currently learning **how to be an adult.**
 
 - 👯 I’m looking to collaborate on **any project really. I need a job**
 
 - 🤝 I’m looking for help with **life. Any suggestions?**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RCmags](https://github.com/RCmags)
+- 👨‍💻 All of my projects are available on my [github profile](https://github.com/RCmags)
 
-- 📝 I regularly write articles on [rcmags.github.io](rcmags.github.io)
+- 📝 I regularly write articles on my [blog](rcmags.github.io)
 
-- 💬 Ask me about **basic arduino, or my model airplanes/helicopters. I suppose I should know something about mechanics, but I've forgotten half of it by now.**
+- 💬 Ask me about **basic arduino, or my model airplanes/helicopters**
 
-- 📫 How to reach me **memoryofatrufestival@gmail.com**
+- 📄 Know about my experiences my looking at my super-awesome [resume](https://cdn2.careeraddict.com/uploads/article/53133/13._20Simplicity_20is_20key.jpeg)
 
-- 📄 Know about my experiences [https://cdn2.careeraddict.com/uploads/article/53133/13._20Simplicity_20is_20key.jpeg](https://cdn2.careeraddict.com/uploads/article/53133/13._20Simplicity_20is_20key.jpeg)
+- ⚡ Fun fact **I once glued my eyelid with superglue. **
 
-- ⚡ Fun fact **I once glued my eyelid with superglue. No bueno yo D:**
+## 📫 How to reach me:
 
-## Connect with me:
 <div>
 <a href="https://www.youtube.com/c/xxxmags" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xxxmags" height="30" width="40" />
