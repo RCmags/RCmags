@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mags 👋</h1>
 <p align="center">
-<img width="80%" src="https://github.com/RCmags/rcmags.github.io/blob/main/img/website_banner.jpg">
+<img src="banner.jpg">
 </p>
 
 <h3 align="center">Some guy that studied mechanical engineering and fiddles around with code</h3>
