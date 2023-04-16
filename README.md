@@ -42,7 +42,6 @@ Contact me through __RCgroups__, __youtube__, or send me an __email__. You can a
 </a>
 </div>
 
-
 ## :wrench: Languages and Tools
 <p align="left"> 
 
