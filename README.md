@@ -126,3 +126,8 @@ Web-dev:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rcmags&show_icons=true&locale=en&layout=compact" alt="rcmags" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rcmags&show_icons=true&locale=en" alt="rcmags" /></p>
+
+## References
+
+- [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
