@@ -23,19 +23,6 @@
 - 🤝 I’m looking for help with life. Any suggestions?
 -->
 
-## :zap: Recent Activity
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [RCmags/radio-control-configurations](https://github.com/RCmags/radio-control-configurations)<br>
-2. ✌️ Released [version v1.2](https://github.com/RCmags/SelfBalancingRobot/releases/tag/v1.2) in [RCmags/SelfBalancingRobot](https://github.com/RCmags/SelfBalancingRobot)<br>
-3. ⬆️ Pushed 1 commit(s) to [RCmags/SelfBalancingRobot](https://github.com/RCmags/SelfBalancingRobot)<br>
-4. ✌️ Released [version 1.2](https://github.com/RCmags/SelfBalancingRobot/releases/tag/v1.2) in [RCmags/SelfBalancingRobot](https://github.com/RCmags/SelfBalancingRobot)<br>
-5. ⬆️ Pushed 1 commit(s) to [RCmags/SelfBalancingRobot](https://github.com/RCmags/SelfBalancingRobot)<br>
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 24th, 2023, 2:14:49 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-
 ## 📫 How to reach me
 
 Contact me through __RCgroups__, __youtube__, or send me an __email__. You can also start an [issue here on github](https://github.com/RCmags/RCmags/issues) to use it as a makeshift forum. 
