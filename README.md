@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on flight controllers for rc aircraft, simple web apps, and my blog.
 
-- 👨‍💻 Most of my projects are available on my [github profile](https://github.com/RCmags).
+- 👨‍💻 Most of my projects are available on my [github profile](https://github.com/RCmags)
 
-- 📝 I ocassionally write articles on my [blog](https://rcmags.github.io/)
+- 📝 I ocassionally write articles on my [blog](https://rcmags.github.io/).
 
-- :heavy_exclamation_mark: Be sure to check out my [RCgroups](https://www.rcgroups.com/forums/member.php?u=189488) account! There's lots of good information I've posted there.
+- :heavy_exclamation_mark: Be sure to check out my [RCgroups](https://www.rcgroups.com/forums/member.php?u=189488) account! There's lots of good information there.
 
 - 💬 Ask me about anything that's in my repos or blog. I especially like model aircraft and unusual vehicles! :airplane: :helicopter: 
 
@@ -24,13 +24,15 @@
 -->
 
 ## :chart_with_upwards_trend: Profile Statistics
+
+![](https://komarev.com/ghpvc/?username=rcmags)
+
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmags&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rcmags&show_icons=true" />
 </div>
 
 ## 📫 How to reach me
-
 Contact me through __RCgroups__, __youtube__, or send me an __email__:
 
 <div>
