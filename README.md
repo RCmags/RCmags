@@ -25,7 +25,7 @@
 
 ## 📫 How to reach me
 
-Contact me through __RCgroups__, __youtube__, or send me an __email__. You can also start an [issue here on github](https://github.com/RCmags/RCmags/issues) to use it as a makeshift forum. 
+Contact me through __RCgroups__, __youtube__, or send me an __email__:
 
 <div>
 <a href="https://www.rcgroups.com/forums/member.php?u=189488">
@@ -41,6 +41,9 @@ Contact me through __RCgroups__, __youtube__, or send me an __email__. You can a
 </a>
 </div>
 
+<br/>
+
+You can also start an [issue here on github](https://github.com/RCmags/RCmags/issues) to use it as a makeshift forum. 
 
 ## :wrench: Languages and Tools
 <p align="left"> 
