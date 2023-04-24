@@ -127,7 +127,12 @@ Web-dev:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rcmags&show_icons=true&locale=en" alt="rcmags" /></p>
 
+## Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
 ## References
 
 - [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+- [Recent Activity](https://github.com/Readme-Workflows/recent-activity)
