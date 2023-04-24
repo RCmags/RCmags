@@ -17,7 +17,7 @@
 
 - 📄 Check out my super-awesome [resume](https://cdn2.careeraddict.com/uploads/article/53133/13._20Simplicity_20is_20key.jpeg).
 
-- ⚡ Fun fact: I once glued my eyelashes with superglue.
+- :trollface: I once glued my eyelashes with superglue.
 
 <!--
 - 🌱 I’m currently learning how to be an adult.
