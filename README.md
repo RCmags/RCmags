@@ -24,7 +24,20 @@
 - 🤝 I’m looking for help with life. Any suggestions?
 -->
 
-## 📫 How to reach me:
+## :zap: Recent Activity
+<!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [RCmags/RCmags](https://github.com/RCmags/RCmags)<br>
+2. ⬆️ Pushed 1 commit(s) to [RCmags/SelfBalancingRobot](https://github.com/RCmags/SelfBalancingRobot)<br>
+3. ⬆️ Pushed 1 commit(s) to [RCmags/SelfBalancingRobot](https://github.com/RCmags/SelfBalancingRobot)<br>
+4. ⬆️ Pushed 1 commit(s) to [RCmags/SelfBalancingRobot](https://github.com/RCmags/SelfBalancingRobot)<br>
+5. ⬆️ Pushed 1 commit(s) to [RCmags/SelfBalancingRobot](https://github.com/RCmags/SelfBalancingRobot)<br>
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Monday, April 24th, 2023, 1:05:25 AM
+<!--RECENT_ACTIVITY:last_update_end-->
+
+
+## 📫 How to reach me
 
 Contact me through __RCgroups__, __youtube__, or send me an __email__. You can also start an [issue here on github](https://github.com/RCmags/RCmags/issues) to use it as a makeshift forum. 
 
@@ -41,6 +54,7 @@ Contact me through __RCgroups__, __youtube__, or send me an __email__. You can a
 <img align="center" src="https://github.com/RCmags/rcmags.github.io/blob/main/assets/icons/gmail.svg" height="30" width="30" />
 </a>
 </div>
+
 
 ## :wrench: Languages and Tools
 <p align="left"> 
@@ -122,25 +136,9 @@ Web-dev:
 </a> 
 </div>
   
-## :chart_with_upwards_trend: Statistics
+## :chart_with_upwards_trend: Profile Statistics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rcmags&show_icons=true&locale=en&layout=compact" alt="rcmags" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rcmags&show_icons=true&locale=en" alt="rcmags" /></p>
 
-## Recent Activity
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [RCmags/RCmags](https://github.com/RCmags/RCmags)<br>
-2. ⬆️ Pushed 1 commit(s) to [RCmags/SelfBalancingRobot](https://github.com/RCmags/SelfBalancingRobot)<br>
-3. ⬆️ Pushed 1 commit(s) to [RCmags/SelfBalancingRobot](https://github.com/RCmags/SelfBalancingRobot)<br>
-4. ⬆️ Pushed 1 commit(s) to [RCmags/SelfBalancingRobot](https://github.com/RCmags/SelfBalancingRobot)<br>
-5. ⬆️ Pushed 1 commit(s) to [RCmags/SelfBalancingRobot](https://github.com/RCmags/SelfBalancingRobot)<br>
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 24th, 2023, 1:05:25 AM
-<!--RECENT_ACTIVITY:last_update_end-->
 
-## References
-
-- [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
-- [Recent Activity](https://github.com/Readme-Workflows/recent-activity)
