@@ -123,8 +123,7 @@ Web-dev:
 </div>
   
 ## :chart_with_upwards_trend: Profile Statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rcmags&show_icons=true&locale=en&layout=compact" alt="rcmags" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rcmags&show_icons=true&locale=en" alt="rcmags" /></p>
-
-
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmags&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rcmags&show_icons=true" />
+</div>
