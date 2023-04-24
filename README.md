@@ -23,6 +23,12 @@
 - 🤝 I’m looking for help with life. Any suggestions?
 -->
 
+## :chart_with_upwards_trend: Profile Statistics
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmags&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rcmags&show_icons=true" />
+</div>
+
 ## 📫 How to reach me
 
 Contact me through __RCgroups__, __youtube__, or send me an __email__:
@@ -125,8 +131,3 @@ Web-dev:
 </a> 
 </div>
   
-## :chart_with_upwards_trend: Profile Statistics
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmags&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rcmags&show_icons=true" />
-</div>
