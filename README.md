@@ -32,6 +32,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rcmags&show_icons=true" />
 </div>
 
+## :ledger: Lastest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📫 How to reach me
 Contact me through __RCgroups__, __youtube__, or send me an __email__:
 
