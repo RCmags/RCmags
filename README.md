@@ -38,7 +38,6 @@
 - [Description of category](https://rcmags.github.io/blog/travel/2023/04/19/description.html)
 - [Render the output of an ADNS-3080 sensor as a grayscale image](https://rcmags.github.io/projects/miscellaneous/2020/12/15/adns30380_output.html)
 - [Interface for the ADNS-3080 optical-flow mouse sensor](https://rcmags.github.io/projects/arduino%20libraries/2020/12/12/adns3080.html)
-- [Datatypes for 3D vectors and quaternions](https://rcmags.github.io/projects/arduino%20libraries/2020/09/20/3d_datatypes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
