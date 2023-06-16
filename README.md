@@ -110,11 +110,15 @@ Languages:
 <a href="https://www.lua.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" height="40"/>
 </a>
+
+<a href="https://www.r-project.org/">
+<img src="https://www.r-project.org/Rlogo.png" width="40" height="40"/>
+</a>
 </div>
   
 <br/>
   
-Web-dev:  
+Web-development:  
 <div>
 <a href="https://www.w3.org/html/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
