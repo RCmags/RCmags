@@ -34,10 +34,10 @@
 
 ## :ledger: Lastest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Description of category](https://rcmags.github.io/blog/research/2023/04/19/description.html)
-- [Flying on a windy day - slope ‘soaring’ in a scenic valley](https://rcmags.github.io/blog/travel/2023/04/19/windy-flight.html)
+- [Initial foray into machine learning](https://rcmags.github.io/blog/research/2024/06/06/machine-learning.html)
+- [Hawkmoths from the mountains](https://rcmags.github.io/blog/travel/2024/06/04/hawkmoth.html)
+- [Flying on a windy day - slope ‘soaring’ in a scenic valley](https://rcmags.github.io/blog/travel/2023/05/01/windy-flight.html)
 - [Render the output of an ADNS-3080 sensor as a grayscale image](https://rcmags.github.io/projects/miscellaneous/2020/12/15/adns30380_output.html)
-- [Interface for the ADNS-3080 optical-flow mouse sensor](https://rcmags.github.io/projects/arduino%20libraries/2020/12/12/adns3080.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
