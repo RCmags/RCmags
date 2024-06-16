@@ -34,10 +34,10 @@
 
 ## :ledger: Lastest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Machine learning frameworks | A newbie perspective](https://rcmags.github.io/blog/research/2024/06/08/machine-learning-1.html)
 - [Initial foray into machine learning](https://rcmags.github.io/blog/research/2024/06/06/machine-learning.html)
 - [Hawkmoths from the mountains](https://rcmags.github.io/blog/travel/2024/06/04/hawkmoth.html)
 - [Flying on a windy day - slope ‘soaring’ in a scenic valley](https://rcmags.github.io/blog/travel/2023/05/01/windy-flight.html)
-- [Render the output of an ADNS-3080 sensor as a grayscale image](https://rcmags.github.io/projects/miscellaneous/2020/12/15/adns30380_output.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
