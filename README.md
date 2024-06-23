@@ -34,10 +34,10 @@
 
 ## :ledger: Lastest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DIY Laptop powerbank / Battery power supply](https://rcmags.github.io/blog/computers/2024/06/16/laptop-ups.html)
 - [Machine learning frameworks | A newbie perspective](https://rcmags.github.io/blog/research/2024/06/08/machine-learning-1.html)
 - [Initial foray into machine learning](https://rcmags.github.io/blog/research/2024/06/06/machine-learning.html)
 - [Hawkmoths from the mountains](https://rcmags.github.io/blog/travel/2024/06/04/hawkmoth.html)
-- [Flying on a windy day - slope ‘soaring’ in a scenic valley](https://rcmags.github.io/blog/travel/2023/05/01/windy-flight.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
