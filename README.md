@@ -34,10 +34,10 @@
 
 ## :ledger: Lastest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Remarks on Slow Laptops and Low-Performance Computers](https://rcmags.github.io/blog/computers/2024/08/13/remarks-old-laptops.html)
 - [DIY Laptop powerbank / Battery power supply](https://rcmags.github.io/blog/computers/2024/06/16/laptop-ups.html)
 - [Machine learning frameworks | A newbie perspective](https://rcmags.github.io/blog/research/2024/06/08/machine-learning-1.html)
 - [Initial foray into machine learning](https://rcmags.github.io/blog/research/2024/06/06/machine-learning.html)
-- [Hawkmoths from the mountains](https://rcmags.github.io/blog/travel/2024/06/04/hawkmoth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
