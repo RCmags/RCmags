@@ -108,7 +108,7 @@ Languages:
 </a> 
 
 <a href="https://www.lua.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.lua.org/images/lua-logo.gif" width="40" height="40"/>
 </a>
 
 <a href="https://www.r-project.org/">
