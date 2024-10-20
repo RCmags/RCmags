@@ -34,10 +34,10 @@
 
 ## :ledger: Lastest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Tensorflow with old intel core2quad processors](https://rcmags.github.io/blog/research/2024/09/23/tensorflow-old-pc.html)
+- [Adding Latex to Jekyll for pretty equations](https://rcmags.github.io/blog/computers/2024/10/13/adding-latex-jekyll.html)
+- [Using Tensorflow with old intel core2quad processors](https://rcmags.github.io/blog/computers/2024/09/23/tensorflow-old-pc.html)
 - [Why is it so hard and uncomfortable to write?](https://rcmags.github.io/blog/journal/2024/08/30/difficulty-writing.html)
 - [Remarks on Slow Laptops and Low-Performance Computers](https://rcmags.github.io/blog/computers/2024/08/13/remarks-old-laptops.html)
-- [DIY Laptop powerbank / Battery power supply](https://rcmags.github.io/blog/computers/2024/06/16/laptop-ups.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
