@@ -34,10 +34,10 @@
 
 ## :ledger: Lastest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [First Week in Grad School | On Funding](https://rcmags.github.io/blog/research/2025/01/28/grad-school-1.html)
+- [One month in grad school: more inquiries about funding and teaching](https://rcmags.github.io/blog/research/2025/02/02/grad-school-2.html)
+- [First week in grad school: On funding](https://rcmags.github.io/blog/research/2025/01/28/grad-school-1.html)
 - [Adding Latex to Jekyll for pretty equations](https://rcmags.github.io/blog/computers/2024/10/13/adding-latex-jekyll.html)
 - [Using Tensorflow with old intel core2quad processors](https://rcmags.github.io/blog/computers/2024/09/23/tensorflow-old-pc.html)
-- [Why is it so hard and uncomfortable to write?](https://rcmags.github.io/blog/journal/2024/08/30/difficulty-writing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
