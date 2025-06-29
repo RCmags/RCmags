@@ -34,10 +34,10 @@
 
 ## :ledger: Lastest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One month in grad school: more inquiries about funding and teaching](https://rcmags.github.io/blog/research/2025/02/02/grad-school-2.html)
-- [First week in grad school: On funding](https://rcmags.github.io/blog/research/2025/01/28/grad-school-1.html)
-- [Adding Latex to Jekyll for pretty equations](https://rcmags.github.io/blog/computers/2024/10/13/adding-latex-jekyll.html)
-- [Using Tensorflow with old intel core2quad processors](https://rcmags.github.io/blog/computers/2024/09/23/tensorflow-old-pc.html)
+- [Connecting to Cisco-Secure-Client VPN on Ubuntu 24.04 with XFCE](https://rcmags.github.io/blog/computers/2025/06/22/cisco-vpn-linux.html)
+- [Thoughts on the spirit of graduate school: the ritual that is a PHD](https://rcmags.github.io/blog/research/2025/06/05/grad-school-4.html)
+- [Getting into a research group and focusing on a project](https://rcmags.github.io/blog/research/2025/05/31/grad-school-3.html)
+- [Filter for the arctangent function to remove discontinuities](https://rcmags.github.io/blog/code/2025/05/06/continuos-arctan-function.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
